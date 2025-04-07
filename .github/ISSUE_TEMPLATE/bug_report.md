@@ -1,6 +1,6 @@
 ---
-name: Feature request
-about: 새로운 기능
+name: Bug report
+about: '버그 발생!!!!!!!!!!! '
 title: ''
 labels: ''
 assignees: ''
